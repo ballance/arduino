@@ -1,6 +1,11 @@
 # macOS
 .DS_Store
 
+# Videos are too big for GitHub (100 MB limit)
+*.MOV
+*.mov
+*.mp4
+
 # Arduino build output
 build/
 

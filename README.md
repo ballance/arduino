@@ -10,6 +10,12 @@ Do them in order — every project teaches you something new.
 | 1 | [Traffic Light](01-traffic-light/) | Turning LEDs on and off, and using `delay()` to wait |
 | 2 | [Random Flash](02-random-flash/) | Making the Arduino pick random numbers, like rolling dice |
 | 3 | [Button Light](03-button-light/) | Reading a button — your first input! — and making choices with `if` |
+| ⚡ | [Circuit School](circuit-school/) | How circuits really work: loops, breadboards, LEDs, resistors. **Read before Project 4!** |
+| 4 | [Circuit Drills](04-circuit-drills/) | Design circuits from scratch — no wiring tables, you're the engineer |
+
+Starting with Project 4, you build the circuits **yourself**. Projects
+give you the goal and the parts; the wiring is up to you. (Dad has
+the answer keys.)
 
 ## How to put a program on your Arduino
 
