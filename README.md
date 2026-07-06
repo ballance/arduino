@@ -9,6 +9,7 @@ Do them in order — every project teaches you something new.
 |---|---------|-------------------|
 | 1 | [Traffic Light](01-traffic-light/) | Turning LEDs on and off, and using `delay()` to wait |
 | 2 | [Random Flash](02-random-flash/) | Making the Arduino pick random numbers, like rolling dice |
+| 3 | [Button Light](03-button-light/) | Reading a button — your first input! — and making choices with `if` |
 
 ## How to put a program on your Arduino
 
