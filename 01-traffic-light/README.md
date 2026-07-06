@@ -3,6 +3,8 @@
 Make three LEDs work just like a real traffic light:
 **green** (go!) → **yellow** (slow down!) → **red** (stop!) → and back to green.
 
+🎬 **[Watch Bash explain the wiring](Bash%20explains%20how%20to%20wire%20a%20traffic%20light.MOV)** — a video tour of this circuit by the engineer himself.
+
 ## What you need
 
 - 1 Arduino Uno
